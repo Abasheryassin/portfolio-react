@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function Portfolio() {
-    <div>Hi</div>
+    return <h1>Portfolio</h1>
 };
